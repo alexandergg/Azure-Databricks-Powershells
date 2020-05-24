@@ -1,6 +1,6 @@
 # PowerShell Modules for Azure Databricks
 
-This repository contains the source code to create different Databricks artifact by powershell scripts. The scripts was developed using Databricks docs to create the correspondent API calls.
+This repository contains the source code to create different Databricks artifact by powershell scripts. The scripts was developed using Databricks docs to create the correspondent API endpoints.
 
 It works for Databricks on Azure and also AWS. The APIs are almost identical so I decided to bundle them in one single module. The official API documentations can be found here:
 
